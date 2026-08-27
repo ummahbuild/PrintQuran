@@ -1,0 +1,2 @@
+# Claims Policy
+No fabricated stats. No unsupported 'theft-proof', lifetime, archival, certification, adoption or impact claims. Every quantitative public claim needs an evidence owner and source. Public metrics, when real, should prioritize Qur'an output rather than donor activity. Do not imply a donation amount purchases religious reward. Keep commercial branding off or minimal on Qur'anic printouts.

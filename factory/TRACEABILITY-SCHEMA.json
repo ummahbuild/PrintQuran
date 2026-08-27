@@ -1,0 +1,23 @@
+{
+  "serial": "PQ-YYYY-######",
+  "model": "PQ80-CASH",
+  "hardware_rev": "A0",
+  "firmware_version": "",
+  "content_bundle_id": "",
+  "content_bundle_hash": "",
+  "components": {
+    "pcba_lot": "",
+    "printer_lot": "",
+    "display_lot": "",
+    "psu_lot": "",
+    "enclosure_lot": "",
+    "lock_lot": "",
+    "battery_lot": ""
+  },
+  "eol": {
+    "fixture_id": "",
+    "timestamp": "",
+    "result": "PASS",
+    "record_hash": ""
+  }
+}

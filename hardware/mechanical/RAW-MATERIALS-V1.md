@@ -1,0 +1,4 @@
+# Raw Materials V1
+Main shell: 1.2 mm cold-rolled low-carbon steel. Security divider: 1.5 mm steel. Cash door/anchor: 1.5-2.0 mm steel. Chute: 1.0-1.2 mm coated/galvanized steel. Cassette: 1.2-1.5 mm steel. Gold bezel: 2-3 mm aluminum, CNC/stamped/die-cast by volume, anodized/decorative durable finish. Display window: 1.5-2 mm hard-coated polycarbonate. Internal molded brackets: PC-ABS ~2-2.5 mm nominal after DFM. Gaskets: EPDM/silicone foam. PCB: 4-layer FR-4. Harness: stranded copper sized by measured load. Packaging: double-wall corrugated plus qualified protective inserts.
+
+Reference envelope 340 W x 300 D x 390 H mm. Cash opening 145 W x 10 H; bezel about 185 W x 42 H. First chute drop >=70 mm and at least two direction changes. Cassette useful target 250 W x 160 D x 120 H. Four internal M8 anchors. These are starting points, not tooling-release dimensions.

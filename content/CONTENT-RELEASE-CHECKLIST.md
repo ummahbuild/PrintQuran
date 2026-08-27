@@ -1,0 +1,12 @@
+# Content Release Checklist
+- source license verified.
+- exact source version pinned.
+- Arabic file hash recorded.
+- translation resource + edition named on admin screen and release manifest.
+- transliteration resource named.
+- font license cleared for embedding/distribution.
+- representative printed proofs reviewed by qualified Qur’an/content reviewers.
+- automated verse/sūrah sequence test passes.
+- no missing/duplicate āyah IDs.
+- golden raster suite passes.
+- manifest signed with release key held outside source repository.

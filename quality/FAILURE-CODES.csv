@@ -1,0 +1,10 @@
+Code,User message,Admin detail,Field action
+P01,Printer needs attention,Paper out,Reload paper
+P02,Printer needs attention,Cutter jam,Open service bay and clear per manual
+P03,Service required,Head overtemp,Allow cool-down; inspect ventilation
+C01,Service required,Cash sensor blocked,Inspect chute
+D01,Service required,Service door open,Close/lock service door
+D02,Service required,Cash door open,Close/lock cash door
+B01,Temporarily unavailable,Battery too low to print,Restore mains / charge
+Q01,Service required,Content signature invalid,Install authorized bundle
+S01,Resuming your sūrah,Interrupted job journal found,Automatic resume/service if jammed

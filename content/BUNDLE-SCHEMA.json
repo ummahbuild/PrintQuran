@@ -1,0 +1,37 @@
+{
+  "bundle_id": "hafs-uthmani-en-example",
+  "bundle_version": "0.0.0-example",
+  "arabic": {
+    "source": "REPLACE_WITH_APPROVED_SOURCE",
+    "license_id": "",
+    "sha256": ""
+  },
+  "verse_count_convention": "DATASET_DEFINED",
+  "translations": [
+    {
+      "language": "en",
+      "resource_name": "REPLACE",
+      "license_id": "",
+      "sha256": ""
+    }
+  ],
+  "transliterations": [
+    {
+      "language": "latin",
+      "resource_name": "REPLACE",
+      "license_id": "",
+      "sha256": ""
+    }
+  ],
+  "fonts": [
+    {
+      "name": "REPLACE_APPROVED_FONT",
+      "license_id": "",
+      "sha256": ""
+    }
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "manifest_signature": ""
+  }
+}

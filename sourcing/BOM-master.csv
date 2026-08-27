@@ -1,0 +1,23 @@
+Category,Ref,Part / Requirement,Preferred spec,Qty,100u target USD,1000u target USD,Alternates / Notes
+Compute,U1,ESP32-S3 module,8MB flash; PSRAM optional,1,4.5-6.5,3.5-5.0,Use module for RF certification leverage
+PCB,PCB1,Main controller PCB,"4-layer preferred, 1.6mm FR4",1,8-14,4-7,Includes DC/DC and printer drivers/interfaces
+Printer,PRN1,80mm embedded thermal printer,"203dpi, 72mm-class print width, cutter, paper sensor",1,38-60,28-45,Qualify 3 suppliers
+Display,DS1,4.3in TFT,"480x272 or better, non-touch",1,10-16,7-11,E-ink optional premium variant
+Power,PSU1,External PSU,"12V 5A, regional plugs, certified",1,10-16,7-11,UL/IEC 62368-1 evidence as applicable
+Power,BAT1,LiFePO4 backup module,12.8V 3-4Ah with BMS,0.5,18-28,14-22,Optional SKU
+Mechanical,CH1,Folded steel chassis,1.2mm powder coated,1,22-36,15-26,"Structural, common across finishes"
+Mechanical,CV1,Cash vault/cassette,"1.5mm steel, removable",1,10-18,7-12,Separate from service compartment
+Security,LK1,Cash lock,tubular or high-quality cam lock,1,5-9,3-6,Keyed-alike/keyed-different options
+Security,LK2,Service lock,cam lock,1,3-6,2-4,Different key from cash lock
+Mechanical,G1,Gold cash slot bezel,die cast / machined prototype; plated production,1,4-10,2-6,Avoid solid brass cost
+Mechanical,PNL,Decorative side panels,PC/ABS or aluminum overlay,2,8-16,4-9,Black/brown/blue printed or coated
+Input,ENC1,Rotary encoder + knob,detents + push,1,2-4,1-2,Amount selector for payment terminal only
+Sensor,S1,Cash beam sensor,dual optical beam preferred,1,1-3,0.6-1.5,"Detect event, not denomination"
+Sensor,S2,Paper out/near-end,printer-native + optional near-end,1,1-2,0.5-1,
+Sensor,S3,Service door switch,tamper microswitch,1,0.5-1.5,0.25-0.7,
+Sensor,S4,Cash door switch,tamper microswitch,1,0.5-1.5,0.25-0.7,
+Audio,SPK1,Small speaker/buzzer,service alerts only,1,1-2,0.5-1,Disableable
+Storage,SD1,Industrial microSD,8-16GB,1,5-9,3-6,Optional if internal flash sufficient
+Harness,WH1,Main wiring harness,locking connectors,1,5-9,3-6,No loose Dupont headers in production
+Hardware,HW,"Fasteners, feet, anchors",security Torx where exposed,1,5-8,3-5,
+Packaging,PKG,Carton + molded pulp/EPE,drop-testable,1,8-14,5-9,Prefer recyclable molded pulp

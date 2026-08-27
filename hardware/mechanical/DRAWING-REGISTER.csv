@@ -1,0 +1,9 @@
+ID,Part,Status,Owner,Needed for
+ME-001,Structural chassis,REFERENCE,Mechanical,EVT
+ME-002,Top bezel,REFERENCE,Industrial Design,EVT
+ME-003,Cash cassette,TO DESIGN,Mechanical,EVT
+ME-004,Anti-fishing chute,TO DESIGN,Mechanical,EVT
+ME-005,Printer bracket,TO DESIGN,Mechanical,EVT
+ME-006,Display bracket,TO DESIGN,Mechanical,EVT
+ME-007,Side cosmetic panel,TO DESIGN,Industrial Design,DVT
+ME-008,Packaging inserts,TO DESIGN,Packaging,DVT

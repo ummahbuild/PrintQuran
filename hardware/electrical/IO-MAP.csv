@@ -1,0 +1,15 @@
+Signal,Direction,Voltage,Connector,Notes
+PRINTER_TX,OUT,3.3V UART,J3,level shift if printer requires RS232/5V
+PRINTER_RX,IN,3.3V UART,J3,
+PRINTER_PWR_EN,OUT,3.3V,J3,drives MOSFET/load switch
+CASH_BEAM_A,IN,3.3V,J4,filtered
+CASH_BEAM_B,IN,3.3V,J4,optional direction confirmation
+SERVICE_DOOR,IN,3.3V,J5,normally-closed preferred
+CASH_DOOR,IN,3.3V,J5,normally-closed preferred
+ENC_A,IN,3.3V,J6,rotary encoder
+ENC_B,IN,3.3V,J6,
+ENC_PUSH,IN,3.3V,J6,
+DISPLAY,BI,3.3V,J7,SPI/RGB by selected module
+PAYMENT_EVENT,BI,isolated,J8,regional module abstraction
+BATTERY_SENSE,IN,ADC,J9,optional SKU
+BUZZER,OUT,3.3V,J10,service alerts

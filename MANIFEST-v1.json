@@ -1,0 +1,481 @@
+{
+  "version": "1.0",
+  "file_count": 95,
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/hardware-bug.md",
+      "bytes": 247,
+      "sha256": "fa310b7d35e596a67143e8d0c6849dbbc7c4b6fbb93ce41616c676f8624b849e"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/supplier-change.md",
+      "bytes": 236,
+      "sha256": "4b65ecda7447b9c8a182047d0f9d9e6ea42b6e3e50c798bafacff01bc9619604"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 241,
+      "sha256": "1fe9cbe240317e773a1f48d7817aca7dcfc75078af9596645a695ecc06262494"
+    },
+    {
+      "path": "FILES.txt",
+      "bytes": 3770,
+      "sha256": "1552c250974a27cf4c4faf7f1b4ca2cb91bc4b5c0b692970704faa41d0d0a47e"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 380,
+      "sha256": "8ad50543133d7d1af7778c8c336bab02b0a81a5a4ab2ba9fdb09e8169c1e92af"
+    },
+    {
+      "path": "MANIFEST.json",
+      "bytes": 9229,
+      "sha256": "fe955e9e2f2fcaa09da664ce8041d809202a234a717d588c4fcb64434ffa3bea"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2069,
+      "sha256": "1cd0da998a011aacb0b688722e5d88da0169fcfd46b95e018692a6f9198c3ea5"
+    },
+    {
+      "path": "blueprints/V1-REFERENCE.md",
+      "bytes": 692,
+      "sha256": "d573b376e8ce21f52e3e49cbe5b787046a535e07ec5208cdaf35d45ac30b9d65"
+    },
+    {
+      "path": "branding/BRAND-ARCHITECTURE.md",
+      "bytes": 829,
+      "sha256": "9da274c42b18509254bd639a22e71631a9b32ac25fb4c604c073e5925fb10962"
+    },
+    {
+      "path": "branding/INDUSTRIAL-DESIGN-BRIEF.md",
+      "bytes": 490,
+      "sha256": "f32204888d5d0a36e2c45ea502ea786bafa1d58ad6e4061213c366be9e071d89"
+    },
+    {
+      "path": "compliance/COMPLIANCE-PLAN.md",
+      "bytes": 880,
+      "sha256": "7731c5d068879cb933e65e0b0dfdcd98e0c60f697d03a06738703981b3826e12"
+    },
+    {
+      "path": "compliance/LABELING-PLAN.md",
+      "bytes": 424,
+      "sha256": "4d70b4d15dc567628e739511a1425e009e68e9dd49b91c60437ed840f3ef5053"
+    },
+    {
+      "path": "content/BUNDLE-SCHEMA.json",
+      "bytes": 707,
+      "sha256": "bd16810c8ff7bd3dfe7e0e728f503cab7aef2b13091cf2d178cdbb54da74110d"
+    },
+    {
+      "path": "content/CONTENT-RELEASE-CHECKLIST.md",
+      "bytes": 537,
+      "sha256": "0d7b539a68e6cc95ffeebdf65cbc0ce42386ad7eed4da090cab8499c562c7acd"
+    },
+    {
+      "path": "content/PRINT-PROFILE-SCHEMA.json",
+      "bytes": 620,
+      "sha256": "1181cc74983a7ad6efc86782f53490a34d14c9188bd093c17e0a8edc0a5ac244"
+    },
+    {
+      "path": "content/QURAN-INTEGRITY.md",
+      "bytes": 1312,
+      "sha256": "cfe8fae2623f9d61a87f693a9583e4e16573a18cabe08c2d4b32ad7b975ed62d"
+    },
+    {
+      "path": "diy/V1-BUILD-GUIDE.md",
+      "bytes": 718,
+      "sha256": "8ca3740b81eab49a72bc33ee101d72f28ffd62465a784fd0e2691356d487878d"
+    },
+    {
+      "path": "docs/00-PRODUCTION-ROADMAP.md",
+      "bytes": 2208,
+      "sha256": "ba7e6e78b3401e1283567c5873081a5a940156f827ae33e1ab89fd06329624d5"
+    },
+    {
+      "path": "docs/01-PRD.md",
+      "bytes": 1599,
+      "sha256": "9cc0384adfc02c1648f507a62a6024a2f73b60f7f6203a6b11321c7cffaa0199"
+    },
+    {
+      "path": "docs/02-UNIT-ECONOMICS.md",
+      "bytes": 1161,
+      "sha256": "d7da6951cd5f7cec6d46a33b509533f553afd887ddb5d6b69c4ff967fe29fe12"
+    },
+    {
+      "path": "docs/V1-LEAN-ARCHITECTURE.md",
+      "bytes": 756,
+      "sha256": "027514252da275e871c51a806ab27dcdd2e7fc98e85852640972c9b52cad0f33"
+    },
+    {
+      "path": "factory/CHANGE-CONTROL.md",
+      "bytes": 376,
+      "sha256": "a0bd2cb3574b6a5fabf015de6445f571e6554785af61ff975a9c57810e338660"
+    },
+    {
+      "path": "factory/FACTORY-PROVISIONING.md",
+      "bytes": 558,
+      "sha256": "1f5bc693ade6cafe79ce0ba77396d7ac012b489bbcc222391a691e9a77f5addf"
+    },
+    {
+      "path": "factory/TRACEABILITY-SCHEMA.json",
+      "bytes": 441,
+      "sha256": "dd95767d54eff1fd8e64629e8d6593c2111adfeebf8b70438efabec2dcfd50cf"
+    },
+    {
+      "path": "firmware/PRINTER-ABSTRACTION.md",
+      "bytes": 374,
+      "sha256": "9c5ea65dd1de24b5568a714ca5d43cf41d8de811bdce6f68216a2889a21d8e75"
+    },
+    {
+      "path": "firmware/STATE-MACHINE.md",
+      "bytes": 874,
+      "sha256": "b8b9fc90cf73f5ebca1e4bd3c77f8346e5d9d28d71c6f70e6f120d063255aa8b"
+    },
+    {
+      "path": "firmware/TELEMETRY.md",
+      "bytes": 464,
+      "sha256": "e1909f4676f5ae4e905e0ff11dc62d5e0e47f391fa00575f431483581571a8eb"
+    },
+    {
+      "path": "firmware/UPDATE-SECURITY.md",
+      "bytes": 459,
+      "sha256": "1c964b9ff97cd013602f059d05b48c9b27f91de2f10ca9ee22650b5e35bea52e"
+    },
+    {
+      "path": "hardware/electrical/ELECTRICAL-SPEC.md",
+      "bytes": 1408,
+      "sha256": "74c3054c0b6f60e20633823c81d1e9d81f454c12774c367bf9c383a2e42d164f"
+    },
+    {
+      "path": "hardware/electrical/IO-MAP.csv",
+      "bytes": 621,
+      "sha256": "5ea33558c0b1dd1150e76891057c530faf7a4dd56ab85facf59cb11c0f7af225"
+    },
+    {
+      "path": "hardware/electrical/PCB-DESIGN-CHECKLIST.md",
+      "bytes": 547,
+      "sha256": "cbeba2225354582cca9fd966709093923c2a5764025c0265e4b3421612c9bc18"
+    },
+    {
+      "path": "hardware/mechanical/DRAWING-REGISTER.csv",
+      "bytes": 433,
+      "sha256": "ebc62ad9ddf265c5fd2d0892bca184adc78fb0839eef326d262b3c11db93fa9a"
+    },
+    {
+      "path": "hardware/mechanical/MECHANICAL-SPEC.md",
+      "bytes": 1289,
+      "sha256": "82c030ea56e59f7186137f6c0f616d06aec7627b13f875d3042ac01f94b3d6c0"
+    },
+    {
+      "path": "hardware/mechanical/NON-ELECTRONIC-MODES.md",
+      "bytes": 707,
+      "sha256": "c18b27649ae7dbbebd84a93741ac2603723cb761965da213e591cf4b32ca499c"
+    },
+    {
+      "path": "hardware/mechanical/RAW-MATERIALS-V1.md",
+      "bytes": 875,
+      "sha256": "3ec308526a12ea6adf5d018541f323de5d339ae249eac0b251b44c26f5de163f"
+    },
+    {
+      "path": "hardware/mechanical/SECURITY-DESIGN.md",
+      "bytes": 709,
+      "sha256": "9b83536d29fd18e0847f1d16c64d6256b7653621e429af95c32776ed0d91b947"
+    },
+    {
+      "path": "hardware/mechanical/cad/enclosure_reference.scad",
+      "bytes": 1023,
+      "sha256": "7a83a14283c24b62ede077403193ac8148402573166ab4c38f522c507c1b1fb1"
+    },
+    {
+      "path": "hardware/mechanical/cad/enclosure_reference.stl",
+      "bytes": 76182,
+      "sha256": "d3aa49f3cd5476f76e910658c597a37a34ea23e1b8cac34a2651701fe45c1b35"
+    },
+    {
+      "path": "hardware/mechanical/cad/top_bezel_reference.scad",
+      "bytes": 303,
+      "sha256": "7ee08aafdcccbda5721e45bf54608e23dde7e3b2b5787e3c8f9f8af8d0b68cef"
+    },
+    {
+      "path": "hardware/mechanical/cad/top_bezel_reference.stl",
+      "bytes": 61139,
+      "sha256": "17cec844e5ffc7d08a9e08b04c499d5dfc823630b728947584fbe4f6fc5646a4"
+    },
+    {
+      "path": "hardware/payment/PAYMENT-ABSTRACTION.md",
+      "bytes": 720,
+      "sha256": "f8392799621c4a44af5d9db2daedd27e77e878e458cde1aeed321d523076f19d"
+    },
+    {
+      "path": "logistics/DEPLOYMENT-CHECKLIST.md",
+      "bytes": 560,
+      "sha256": "672acb8f01cfa9a3d2fa49f58d2c388853a2b506558e772a9d6cc809345045fa"
+    },
+    {
+      "path": "manufacturing/ASSEMBLY-WORK-INSTRUCTION.md",
+      "bytes": 852,
+      "sha256": "c3ce5f7b3ce00bcf0fb0db133ee8ae39fa94dc9e0370a9d5713f321850e702ce"
+    },
+    {
+      "path": "manufacturing/CM-RFQ.md",
+      "bytes": 714,
+      "sha256": "27ba9cacf467476b8776464757a7617853475882d10978cf531cfec3d5c07491"
+    },
+    {
+      "path": "manufacturing/EOL-TEST.md",
+      "bytes": 659,
+      "sha256": "39a27be5c050e2d803da6e52ebac83b3b340e800df1db4669200c662fd06f7c1"
+    },
+    {
+      "path": "manufacturing/V1-PRODUCTION-GATES.md",
+      "bytes": 813,
+      "sha256": "7e3e4939d1d0525a8ac91d706785bd0697f4bed1464553116792e31f324fd6d1"
+    },
+    {
+      "path": "marketing/BRAND-MESSAGING.md",
+      "bytes": 711,
+      "sha256": "d90699c60bab6c7e787e615398cc247fc0dccfee93b3c7cb7b729596c8e01cf3"
+    },
+    {
+      "path": "marketing/CLAIMS-POLICY.md",
+      "bytes": 406,
+      "sha256": "f6c3abf8e76199c3c72a4ca0877774b65897d3e1840e345e60280fc7e4583f44"
+    },
+    {
+      "path": "packaging/PACKAGING-SPEC.md",
+      "bytes": 576,
+      "sha256": "d3a0ff6faa2c9c2fe13732e6a644592de49ac71d10af2c97ef4a0b0c05b7fa29"
+    },
+    {
+      "path": "privacy/PRIVACY-BY-DESIGN.md",
+      "bytes": 501,
+      "sha256": "bee3fa9ddad5756d94c83c71f2fc9976fa765a5acd7f384d0c1363631573d508"
+    },
+    {
+      "path": "privacy/V1-PUBLIC-PRIVATE.md",
+      "bytes": 465,
+      "sha256": "b9760dd1ac232c55910742262d62056c373ba039a39fc5ce62851c66cef82e32"
+    },
+    {
+      "path": "product/PRESETS-AND-SETUP.md",
+      "bytes": 693,
+      "sha256": "3a9a52871ad50745fe2c9173251ddd8b934f0bce4e879c92558808a076d3b290"
+    },
+    {
+      "path": "product/RENDITIONS.md",
+      "bytes": 550,
+      "sha256": "6d45b559e1106906b8957ef8020f45d079d347e904008b595b8c2c2c06048b37"
+    },
+    {
+      "path": "quality/DVT-TEST-MATRIX.csv",
+      "bytes": 1685,
+      "sha256": "3e5cdb5ae8d259c83a970984ab06fa8f794cd6f7e7cfd4029aa0fe99935b67aa"
+    },
+    {
+      "path": "quality/FAILURE-CODES.csv",
+      "bytes": 658,
+      "sha256": "570b6f144f34c749b52fb1f3bd315e2b50e14e10b5dea07d75e8bef86e2cf089"
+    },
+    {
+      "path": "quality/INCOMING-INSPECTION.md",
+      "bytes": 508,
+      "sha256": "a2fd2c718efe8a60f110f42449f388e13ca0732cd7221602904fc9b76e7e8dbe"
+    },
+    {
+      "path": "reference-mockups/README.md",
+      "bytes": 386,
+      "sha256": "559b0e503da8ae0edb4f0b1ba211f67b72beaedb952ad5f4b549186cc8490ada"
+    },
+    {
+      "path": "reference-mockups/a_clean_high_detail_product_design_poster_conce.png",
+      "bytes": 2283181,
+      "sha256": "ab28909521406a1f3b029720cce78974ff850fa0ade29027d3d8b40365688bde"
+    },
+    {
+      "path": "reference-mockups/a_clean_high_end_product_concept_render_infogra.png",
+      "bytes": 1924856,
+      "sha256": "6de81b849374651b5b2598f534bd067914063ca4cb8fa9056489cf40ffd26299"
+    },
+    {
+      "path": "reference-mockups/a_clean_high_resolution_product_design_ux_mockup.png",
+      "bytes": 2293345,
+      "sha256": "e842d63765552a32e7e4a7d5053fc14639d9242a6109cf0c95e58d3c78a06e68"
+    },
+    {
+      "path": "reference-mockups/a_clean_modern_dark_and_gold_product_landing_page.png",
+      "bytes": 1900547,
+      "sha256": "e94283643a9aaad468b916d89a5c40b06b4a8649dbe7b8c07f7ad4ec73df78f3"
+    },
+    {
+      "path": "reference-mockups/a_clean_product_concept_board_mockup_spread_ove.png",
+      "bytes": 1865732,
+      "sha256": "a678952b4cb36f2c8ddd95a8086419064c4699141decd7937e76b2cc69a68f3f"
+    },
+    {
+      "path": "reference-mockups/a_clean_product_concept_poster_mockup_board._ove.png",
+      "bytes": 2332229,
+      "sha256": "76fc1752d293ad5e4501a0b5b4ae7bac3ccee71196b456338e5212418900c5cb"
+    },
+    {
+      "path": "reference-mockups/a_clean_product_design_board_concept_sheet_moc.png",
+      "bytes": 2219118,
+      "sha256": "94b751cdad31301d83d2e272eb7bd77e22deb6d960860babfbfac674c4f9aa81"
+    },
+    {
+      "path": "reference-mockups/a_clean_product_design_concept_board_infographic.png",
+      "bytes": 2121567,
+      "sha256": "7a38fba85d70ac73aee742c72ada2937282c671c277363e54a0f157146ba5051"
+    },
+    {
+      "path": "reference-mockups/a_clean_product_design_concept_presentation_diagra.png",
+      "bytes": 1863840,
+      "sha256": "314490cf2042ed68d627377e3882f544f0ad3367f4480696ca0a3ba80f4b0176"
+    },
+    {
+      "path": "reference-mockups/a_detailed_infographic_product_concept_poster_sp.png",
+      "bytes": 2134620,
+      "sha256": "e61d74ce40049d5606049b549ee3f34ea47609f9e05e40ea5b988b01164439bc"
+    },
+    {
+      "path": "reference-mockups/a_detailed_product_concept_poster_infographic_bo.png",
+      "bytes": 2123078,
+      "sha256": "dfeac5b34774fceacc41d069400da5eacf53f9e2f7e4ce63019a729d37a8c667"
+    },
+    {
+      "path": "reference-mockups/a_detailed_product_design_board_spec_mockup_shee.png",
+      "bytes": 1955454,
+      "sha256": "b870b8bd249ec926193f4541df7ed86e64f5bca1fe00b924fb4e079cfd6fc9a4"
+    },
+    {
+      "path": "reference-mockups/a_detailed_product_design_presentation_concept_b.png",
+      "bytes": 1854340,
+      "sha256": "d2b1bac4468391d347967cdedfe39fec2a94965a8473319f7a3869255d6e5afc"
+    },
+    {
+      "path": "reference-mockups/a_detailed_technical_product_infographic_design.png",
+      "bytes": 2129262,
+      "sha256": "44db473ba0482316db8d496175298494efe831844a19e3e35d103eeff0415ee0"
+    },
+    {
+      "path": "reference-mockups/a_high_detail_multi_panel_product_concept_market.png",
+      "bytes": 2186497,
+      "sha256": "d0f257f745a02003ec15576d4f17cc71180b65a2d50d9100b128ff2a7f9b40f3"
+    },
+    {
+      "path": "reference-mockups/a_high_detail_product_concept_board_marketing_po.png",
+      "bytes": 2113464,
+      "sha256": "e274ff362bf92455582a9cc26178a540bd93baf8d221b782e22ed922a50617cf"
+    },
+    {
+      "path": "reference-mockups/a_high_resolution_product_design_presentation_mood.png",
+      "bytes": 2006305,
+      "sha256": "f1b4e3e345336bd32b006bde78e387d409858e9540762a74c22bd51da9d10de7"
+    },
+    {
+      "path": "reference-mockups/a_large_clean_infographic_style_product_concept.png",
+      "bytes": 2112243,
+      "sha256": "96a8ba2b69a581b837c5ca249214d95db98ba2beeaea6aea81e93b8e44d3e654"
+    },
+    {
+      "path": "research/SOURCES.md",
+      "bytes": 1348,
+      "sha256": "e3338153200e01bcbc100da82ffc1532a5d79cc795b3fe807809f07c469e1ea9"
+    },
+    {
+      "path": "security/THREAT-MODEL.md",
+      "bytes": 693,
+      "sha256": "fa682a9be09b1d0985fd81fd414bc1050689c1648b7b41b373c12f635fd4c730"
+    },
+    {
+      "path": "service/FIELD-SERVICE-MANUAL.md",
+      "bytes": 915,
+      "sha256": "930aa1964a5608453f23d6e30e6ac240ebe918d2ecfcc7b2ed77a1059134d9d1"
+    },
+    {
+      "path": "service/PAPER-RELOAD-LABEL.md",
+      "bytes": 364,
+      "sha256": "1c0470840427a850e6001cbbbf59d5ea40884d58d7548222b4e7fad4029fde5d"
+    },
+    {
+      "path": "service/SPARES-PLAN.csv",
+      "bytes": 187,
+      "sha256": "6e0915a71b466cb96cb238f836e8ecc3cc1fed4fdaa73ca359d98a153f25c463"
+    },
+    {
+      "path": "service/V1-MAINTENANCE.md",
+      "bytes": 540,
+      "sha256": "ffca66b83a4b8a5e603106483eb907ace79cfcd9de53f7fb162db4f2b48b7e0b"
+    },
+    {
+      "path": "software/ADMIN-SETTINGS.md",
+      "bytes": 664,
+      "sha256": "330cb491d5c2738e32dc2770fa4888f79c141f79187035d4b62d7d98a0385c52"
+    },
+    {
+      "path": "software/RENDERER-SPEC.md",
+      "bytes": 739,
+      "sha256": "58a22a3bd8df27bb01b5af36a15e7a245f346a80eb2634910ee10f702aad791f"
+    },
+    {
+      "path": "sourcing/APPROVED-VENDOR-LIST-TEMPLATE.csv",
+      "bytes": 105,
+      "sha256": "d71105ed32119260fafa73b2452d22308f7dea608a15db263a180e2f7bfa1514"
+    },
+    {
+      "path": "sourcing/BOM-master.csv",
+      "bytes": 2244,
+      "sha256": "fdfd8290c7ea8832b3f746dc05bfc123f68ad85f19e90eb98e9180474e6dab0b"
+    },
+    {
+      "path": "sourcing/COST-MODEL.csv",
+      "bytes": 328,
+      "sha256": "cd77e432018e5f9835c6b300ca4114e16cec55c299f575cc8d8a146815955ed4"
+    },
+    {
+      "path": "sourcing/SUPPLIER-QUALIFICATION.md",
+      "bytes": 1221,
+      "sha256": "12b8ee098cd4f786e106a286ff0ec4fbdb1e05d52c81a15050f0feaaf5eb98f6"
+    },
+    {
+      "path": "sourcing/SUPPLIER-RFQ-ENCLOSURE.md",
+      "bytes": 622,
+      "sha256": "d1452f575712b6d91573b538b27a728494053e6607f3defd83827f41c0de3306"
+    },
+    {
+      "path": "sourcing/SUPPLIER-RFQ-PRINTER.md",
+      "bytes": 675,
+      "sha256": "71042a37551154c8f0f04b38dc8ce984c4946cfd82c2a641c3b98a8cd4c975b6"
+    },
+    {
+      "path": "sourcing/V1-COST-AND-RFQ.md",
+      "bytes": 779,
+      "sha256": "95dce6ff451c45d0a9c1e8d21de7c72aa658aa880708b780889a974a9ad0f767"
+    },
+    {
+      "path": "tests/ACCEPTANCE.md",
+      "bytes": 439,
+      "sha256": "df82ec59dcfc58a0ba0b3655edc304378d45e8ddb5ea9ffe704dc53490cdb04d"
+    },
+    {
+      "path": "tools/README.md",
+      "bytes": 209,
+      "sha256": "0d1eb9131c735f3853b984a8a2a688719f12107ff75d5b89c35049bbb42fbcdf"
+    },
+    {
+      "path": "tools/cost_summary.py",
+      "bytes": 399,
+      "sha256": "9904ccf30245d34e0823be0ed514558ecad3ecb1d7a232d10a7735ef25e0336a"
+    },
+    {
+      "path": "tools/verify_bundle.py",
+      "bytes": 205,
+      "sha256": "b7c316f8b0b969a0d3a56dca1b82c80825e360079bd8c63968cb61abbcea5d12"
+    },
+    {
+      "path": "website/LANDING-PAGE-AND-COPY.md",
+      "bytes": 873,
+      "sha256": "ddf6ab383a1af67301b479f8cc9c09491554a9eace6e97b22623037c4c1e44a4"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "profile_version": 1,
+  "arabic": {
+    "enabled": true,
+    "script_profile": "uthmani-hafs",
+    "font_id": "approved-font-id",
+    "size_pt": 20
+  },
+  "translation": {
+    "enabled": true,
+    "language": "en",
+    "resource_id": "approved-translation-id",
+    "size_pt": 10
+  },
+  "transliteration": {
+    "enabled": true,
+    "resource_id": "approved-transliteration-id",
+    "size_pt": 9
+  },
+  "layout": {
+    "paper_width_mm": 80,
+    "printable_width_mm": 72,
+    "max_part_length_mm": 600,
+    "min_bottom_margin_mm": 10,
+    "ayah_break_only": true,
+    "qr_footer": false,
+    "paper_save": false
+  }
+}

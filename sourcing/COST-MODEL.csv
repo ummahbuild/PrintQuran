@@ -1,0 +1,7 @@
+Volume,Electronics,Printer,Mechanical+locks,Power,Harness+sensors,Packaging,Assembly+test,Target ex-factory total
+10,70,85,140,35,25,18,55,428
+100,42,50,70,24,16,12,25,239
+500,31,40,50,20,12,9,18,180
+1000,26,35,43,18,10,8,15,155
+5000,21,30,34,16,8,7,12,128
+NOTE,,,,,,,,Targets only; obtain RFQs before business decisions

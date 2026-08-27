@@ -1,0 +1,13 @@
+# Deployment Checklist
+- anchor device before accepting cash.
+- record cash/service key custody.
+- install approved paper.
+- verify selected Qur’an bundle and print profile.
+- print golden commissioning sample and archive photo/scan.
+- set local language(s).
+- set public screen privacy mode (mandatory).
+- configure payment presets/currency if payment module installed.
+- verify offline cash donation works.
+- verify payment decline does not print.
+- verify network outage behavior.
+- train volunteer paper reload and authorized cash collection separately.

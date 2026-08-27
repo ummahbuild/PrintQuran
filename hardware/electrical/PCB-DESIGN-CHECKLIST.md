@@ -1,0 +1,12 @@
+# PCB Design Checklist
+- ESP32 antenna keepout respected.
+- 4-layer stack recommended for EMC and robust ground.
+- printer motor/current return kept away from RF/logic reference.
+- TVS at external connectors.
+- ESD strategy for USB and user-touch metal.
+- locking production connectors.
+- test pads for all rails, UART, boot, reset, door/cash sensors.
+- serial number / MAC traceability.
+- factory fixture pogo-pad area.
+- no bootloader/debug access exposed without authorization.
+- design reviewed against selected printer peak-current waveform.

@@ -1,0 +1,20 @@
+ID,Area,Test,Acceptance,Priority
+DVT-001,Print,10000 print/cut cycles,No unrecovered state corruption; jam rate within printer target,DVT_BLOCKER
+DVT-002,State,Power cut during every state,No double advancement or lost job,DVT_BLOCKER
+DVT-003,Content,Corrupt bundle signature,Device refuses print and shows service error,DVT_BLOCKER
+DVT-004,Content,Golden raster Arabic suite,Pixel output matches approved baseline,DVT_BLOCKER
+DVT-005,Mechanical,Paper reload novice test,Median <60 sec and no cash access,DVT_BLOCKER
+DVT-006,Security,Fishing attempts through slot,No easy retrieval under agreed fixture/test,DVT_BLOCKER
+DVT-007,Security,Anchor pull/tip,Meets defined installation load,DVT_BLOCKER
+DVT-008,Environment,0-40C operating trial,No unsafe condition; print performance within spec,HIGH
+DVT-009,Environment,20-80%RH non-condensing,No corrosion/jam beyond limits,HIGH
+DVT-010,EMC,ESD pre-scan,No reset/data corruption at target levels,DVT_BLOCKER
+DVT-011,EMC,Conducted/radiated pre-scan,Engineering margin before formal test,DVT_BLOCKER
+DVT-012,Power,Printer peak transient,No brownout; rails within limits,DVT_BLOCKER
+DVT-013,Battery,Low battery print inhibit,Long print not started below threshold,HIGH
+DVT-014,Transport,Packaged drop test,No functional/cosmetic failure beyond criteria,HIGH
+DVT-015,Service,Printer swap,Trained tech <10 min,HIGH
+DVT-016,Privacy,Public UI review,No amounts/count/timestamps visible,DVT_BLOCKER
+DVT-017,Payment,Declined/cancel flow,No print on unsuccessful transaction,DVT_BLOCKER
+DVT-018,Cash,Single-note beam debounce,One event produces one job,DVT_BLOCKER
+DVT-019,Paper,3 approved paper grades,No unacceptable curl/dust/cutter failure,HIGH
